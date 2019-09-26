@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShowcasePlugin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CardPayment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Мобильный платеж</Value>
+    </Setting>
+    <Setting Name="BonusPayment" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Бонусы Plazius</Value>
+    </Setting>
+    <Setting Name="Pin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
